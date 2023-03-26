@@ -47,7 +47,7 @@ When customers churn — they will keep their access until the end of their curr
 
 ### A. Customer Journey
 
-View my solution [here].
+View my solution [here](https://github.com/Ngan7699/SQL-Case-Study-Foodie-Fi/blob/main/A.%20Customer%20Jouney.md).
   
 Based off the 8 sample customers provided in the sample from the subscriptions table, write a brief description about each customer’s onboarding journey.
 
