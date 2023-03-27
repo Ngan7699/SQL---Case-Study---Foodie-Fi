@@ -53,7 +53,7 @@ Based off the 8 sample customers provided in the sample from the subscriptions t
 
 ### B. Data Analysis Questions
 
-View my solution [here].
+View my solution [here(https://github.com/Ngan7699/SQL-Case-Study-Foodie-Fi/blob/main/B.%20Data%20Analysis%20Questions.md).
   
 1. How many customers has Foodie-Fi ever had?
 2. What is the monthly distribution of trial plan start_date values for our dataset - use the start of the month as the group by value
